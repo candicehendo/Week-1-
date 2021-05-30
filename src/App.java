@@ -50,10 +50,8 @@ public class App {
 		//Using System.out.println() to print console
 		System.out.println("The money I have left after shopping is $" +newAmountOfMoney1);
 		System.out.println("Compared to the money my friend has, which is $" +newAmountOfMoney2 + ".");
-		
 		System.out.println("But at least I have made " +numberOfFriendsMade1 + " " + "friends each year since birth,");
 		System.out.println("While he has only made " + numberOfFriendsMade2 + " friends each year.");
-		
 		System.out.println("By the way, my name is " + fullName1 + ".");
 		System.out.println("My friend's name is " + fullName2 + ".");
 	}
